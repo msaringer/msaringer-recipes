@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.haxxorfreak.download.Revu</string>
+	<string>com.github.msaringer.download.Revu</string>
 	<key>Process</key>
 	<array>
 		<dict>
